@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bino</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">Bino</string>
+
+    <!-- Settings Titles -->
+    <string name="settings_header">Preferência</string>
+
+    <!-- Sync Preferences -->
+    <string name="assit_title">Ativar</string>
+    <string name="voice_title">Assistência por voz</string>
+</resources>
