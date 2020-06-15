@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
                         if (Global.shouldReload()) {
 
                             RequestQueue queue = Volley.newRequestQueue(context);
-                            String url = "https://dd9d901b22eb.ngrok.io/points";
+                            String url = " https://4ffa6230a176.ngrok.io/points";
 
                             JsonArrayRequest jsonObjectRequest = new JsonArrayRequest
                                     (Request.Method.GET, url, null, new Response.Listener<JSONArray>() {
